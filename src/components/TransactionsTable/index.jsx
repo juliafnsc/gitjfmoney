@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { api } from "../../services/api";
 
 /*
-interface Transaction {
+  interface Transaction {
   id: number;
   title: string;
   amount: number;
